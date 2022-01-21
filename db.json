@@ -3,11 +3,13 @@
     {
       "file": "img1",      
       "full_name": "img_bj",
+      "format":"png",
       "img": "https://github.com/ijeysonU/repo_image/blob/main/Logo_BJ0.png"      
     },
     {
       "file": "img2",      
       "full_name": "img_rp",
+      "format":"png",
       "img": "https://github.com/ijeysonU/repo_image/blob/main/Logo_habilitantes_RP.png"
     }
     ]
